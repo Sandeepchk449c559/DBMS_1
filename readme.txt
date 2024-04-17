@@ -46,6 +46,7 @@ Github IDs
 
 
 Project Demo - Youtube Link
+https://youtu.be/wA9QeOhSXY8
 
 Github link
 https://github.com/Sandeepchk449c559/DBMS_1.git
@@ -55,7 +56,7 @@ Database         : Mysql
 Operating System : Windows/Mac/Linux  
 Browser to run the webpage: Google Chrome / Mozilla Firefox  
 
-Screenshots
+
 
 
 
